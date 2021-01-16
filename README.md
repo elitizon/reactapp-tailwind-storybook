@@ -16,7 +16,7 @@ It's available at [https://github.com/elitizon/reactapp-tailwind-storybook](http
 To use this template:
 
 - clone it
-- as commented remove the .git folder
+- remove the .git folder
 - git init .
 - git add .
 - git commit -m "First commit"
