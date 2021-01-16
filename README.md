@@ -11,7 +11,6 @@ The configuration is inspired from the article [Using Tailwind CSS with Create R
 
 Created with ❤️ by [Elitizon](https://www.elitizon.com)
 
-
 It's available at [https://github.com/elitizon/reactapp-tailwind-storybook](https://github.com/elitizon/reactapp-tailwind-storybook)
 
 ## Available Scripts
