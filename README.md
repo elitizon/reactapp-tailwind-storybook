@@ -3,13 +3,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and we have added:
 
 - [Typescript](https://www.typescriptlang.org/)
-- [Taillwindcss support](https://www.tailwindcss.com)
+- [Taillwindcss](https://www.tailwindcss.com)
 - [Storybook](https://storybook.js.org/)
 - [Jest](https://jestjs.io/)
 
 The configuration is inspired from the article [Using Tailwind CSS with Create React App](https://daveceddia.com/tailwind-create-react-app/) from [David CEDDIA @davidcedia](https://twitter.com/dceddia)
 
 Created with ❤️ by [Elitizon](https://www.elitizon.com)
+
 
 It's available at [https://github.com/elitizon/reactapp-tailwind-storybook](https://github.com/elitizon/reactapp-tailwind-storybook)
 
@@ -46,7 +47,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-Result of execution
+👉 **Result of execution**
 
 ```bash
 yarn run v1.22.10
@@ -65,17 +66,17 @@ $ react-scripts build
 yarn run v1.22.10
 $ cross-env NODE_ENV=production run-s build:tailwind
 $ tailwind build src/assets/tailwind.css -o src/tailwind.output.css
-  
+
    tailwindcss 2.0.2
-  
+
    🚀 Building: src/assets/tailwind.css
    ✅ purgeEnabled=true
 
-  
+
    ✅ Finished in 3.39 s
    📦 Size: 12.74KB
    💾 Saved to src/tailwind.output.css
-  
+
 $ react-scripts build
 Creating an optimized production build...
 Compiled successfully.
