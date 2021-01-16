@@ -13,6 +13,14 @@ Created with ❤️ by [Elitizon](https://www.elitizon.com)
 
 It's available at [https://github.com/elitizon/reactapp-tailwind-storybook](https://github.com/elitizon/reactapp-tailwind-storybook)
 
+To use this template:
+
+- clone it
+- as commented remove the .git folder
+- git init .
+- git add .
+- git commit -m "First commit"
+
 ## Available Scripts
 
 In the project directory, you can run:
