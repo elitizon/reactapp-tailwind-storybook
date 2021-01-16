@@ -25,3 +25,5 @@ yarn-error.log*
 .eslintcache
 .vscode
 .env.production
+
+/src/tailwind.output.css
